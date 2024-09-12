@@ -1,0 +1,54 @@
+body {
+    font-family: "Roboto", sans-serif;
+  }
+  .custom-bg {
+    background-image: linear-gradient(180deg, #c4b6fd, #93acfc);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar-brand,
+.text-primary {
+  color: #0a58ca !important;
+}
+.nav-link:hover {
+    color: #0a58ca;
+  }
+
+.nav-link {
+    font-weight: 500;
+}
+p {
+    font-size: 18px;
+  }
+
+.btn-primary{
+    background-color: #0a58ca !important;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #257dfd !important;
+  }
+
+.blue-bg {
+  background-color: #0a58ca;
+  color: #fff;
+}
+
+.ionicons {
+    color: #0a58ca;
+    background-color: #f2f2f2;
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+    margin-bottom: 12px;
+  }
+  .nav-tabs {
+    border: none;
+  }
+  
+  .nav-tabs .active {
+    background-color: #0a58ca !important;
+    border: none;
+    color: #fff !important;
+  }
